@@ -1,3 +1,13 @@
+# KMP Project Template
+
+### Environment & Versions
+- **Platforms:** Android, iOS
+- **JDK:** 25.0.2
+- **Gradle:** 9.3.1
+- **Kotlin:** 2.3.10
+- **Android Gradle Plugin (AGP):** 9.0
+
+
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * [/composeApp](./composeApp/src) is for code that will be shared across your Compose Multiplatform applications.
