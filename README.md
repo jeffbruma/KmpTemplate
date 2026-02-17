@@ -8,7 +8,7 @@
 - **Android Gradle Plugin (AGP):** 9.0
 
 
-This is a Kotlin Multiplatform project targeting Android, iOS.
+This is a Kotlin Multiplatform project targeting Android, iOS, initially created via KMP wizard, then migrated to AGP 9.0 using https://kotlinlang.org/docs/multiplatform/multiplatform-project-agp-9-migration.html#configure-the-build-script-for-the-android-app
 
 * [/composeApp](./composeApp/src) is for code that will be shared across your Compose Multiplatform applications.
   It contains several subfolders:
